@@ -1,4 +1,4 @@
-# enebular-privatenode-contrib-grovepi-nodes
+# node-red-contrib-grovepi-nodes
 GrovePi+経由でGroveモジュールを接続するためのノード群です。
 
 以下のGroveモジュールに対応しています。

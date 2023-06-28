@@ -1,5 +1,5 @@
 {
-  "name": "enebular-privatenode-contrib-grovepi-nodes",
+  "name": "node-red-contrib-grovepi-nodes",
   "version": "0.7.2",
   "description": "",
   "node-red": {
