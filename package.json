@@ -1,0 +1,35 @@
+{
+  "name": "enebular-privatenode-contrib-grovepi-nodes",
+  "version": "0.7.2",
+  "description": "",
+  "node-red": {
+    "nodes": {
+      "GrovePi-range-sensor": "GrovePi-range-sensor.js",
+      "GrovePi-DigitalIn": "GrovePi-DigitalIn.js",
+      "GrovePi-DHT-sensor": "GrovePi-DHT-sensor.js",
+      "GrovePi-LED": "GrovePi-LED.js",
+      "GrovePi-AnalogIn": "GrovePi-AnalogIn.js",
+      "GrovePi-ADXL345": "GrovePi-ADXL345.js",
+      "GrovePi-I2CLcd": "GrovePi-I2CLcd.js",
+      "GrovePi-Buzzer": "GrovePi-Buzzer.js",
+      "grovepi": "grovepi.js"
+    }
+  },
+  "main": "GrovePi-range-sensor.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@ia-cloud/node-grovepi": "^2.2.2"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "node-red": "^1.0.5",
+    "node-red-node-test-helper": "^0.2.7"
+  }
+}

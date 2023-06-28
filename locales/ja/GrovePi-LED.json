@@ -1,0 +1,12 @@
+{
+    "editor": {
+        "grovepi": "Grove-Piボード",
+        "din": "Grove接続コネクタ番号",
+        "paletteLabel": "GrovePi LED",
+        "name": "ノード名称"
+    },
+    "runtime": {
+        "on": "LED点灯",
+        "off": "LED消灯"
+    }
+}

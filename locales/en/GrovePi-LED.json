@@ -1,0 +1,12 @@
+{
+    "editor": {
+        "grovepi": "GrovePi board",
+        "din": "Grove connection connector number",
+        "paletteLabel": "GrovePi LED",
+        "name": "Node name"
+    },
+    "runtime": {
+        "on": "LED on",
+        "off": "LED off"
+    }
+}

@@ -1,0 +1,25 @@
+
+<script type="text/html" data-help-name="GrovePi-LED">
+    <p>GrovePi用Grove-LEDノード</p>
+
+    <h3>プロパティ項目</h3>
+    <dl class="message-properties">
+        <dt>GrovePiボード設定ノード<span class="property-type">設定ノード</span></dt>
+        <dd>GrovePiボードの設定ノードを指定します。</dd>
+        <dt>Grove接続コネクタ番号<span class="property-type">選択</span></dt>
+        <dd>Grove-LEDを接続したGrovePiボードのコネクタ番号をD2〜8で指定します。</dd>
+    </dl>
+    <h3>入力メッセージ</h3>
+        <p>GrovePiの接続されたGrove-LEDを点灯もしくは消灯する。</p>
+        <p>payloadの値が、"off"、false、0、"reset"、"stop"のいずれでもない時、LEDを消灯する。</p>
+        <p>それ以外の時は、LEDを点灯する。</p>
+    <h3>出力メッセージ</h3>
+    <dl class="message-properties">
+        <dt>payload <span class="property-type">文字列</span></dt>
+        <dd>LEDを点灯または消灯したメッセージ文字列と、入力メッセージを出力</dd>
+    </dl>
+
+    <h3>詳細説明</h3>
+    <p>入力されたメーッセージにしたがい、GrovePiのGrove-LEDを点灯または消灯する</p>
+
+</script>

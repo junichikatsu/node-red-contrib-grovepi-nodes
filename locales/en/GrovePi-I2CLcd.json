@@ -1,0 +1,12 @@
+{
+    "editor": {
+        "grovepi": "GrovePi board",
+        "paletteLabel": "Grove - LCD RGB Backlight"
+    },
+    "runtime": {
+        "value": "Value",
+        "waiting": "on standby",
+        "sent": "transmission",
+        "error": "GrovePi not found"
+    }
+}

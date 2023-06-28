@@ -1,0 +1,15 @@
+{
+    "editor": {
+        "grovepi": "GrovePi board",
+        "paletteLabel": "Grove - 3 Axis Digital Accelerometer(±16g)",
+        "cycle": "Sensor period",
+        "name": "Node name",
+        "sec": "second"
+    },
+    "runtime": {
+        "value": "Value",
+        "waiting": "on standby",
+        "sent": "transmission",
+        "error": "GrovePi not found"
+    }
+}

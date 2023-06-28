@@ -1,0 +1,16 @@
+{
+    "editor": {
+        "grovepi": "GrovePiボード",
+        "din": "Grove接続コネクタ番号",
+        "paletteLabel": "GrovePi超音波距離センサー",
+        "cycle": "センサ周期",
+        "name": "ノード名称",
+        "sec": "秒"
+    },
+    "runtime": {
+        "value": "センサ値",
+        "waiting": "待機中",
+        "sent": "データ送出",
+        "error": "GrovePiが見つかりません"
+    }
+}

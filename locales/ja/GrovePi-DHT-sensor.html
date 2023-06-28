@@ -1,0 +1,28 @@
+<script type="text/html" data-help-name="GrovePi-DHT-sensor">
+    <p>GrovePi用Grove-温湿度センサーノード</p>
+
+    <h3>プロパティ項目</h3>
+    <dl class="message-properties">
+        <dt>GrovePiボード設定ノード<span class="property-type">設定ノード</span></dt>
+        <dd>GrovePiボードの設定ノードを指定します。</dd>
+        <dt>Grove接続コネクタ番号<span class="property-type">選択</span></dt>
+        <dd>Grove-温湿度センサーを接続したGrovePiボードのコネクタ番号をD2〜8で指定します。</dd>
+        <dt>センサ周期<span class="property-type">数値</span></dt>
+        <dd>温湿度センサーの出力周期を数値で指定します。</dd>
+    </dl>
+    <h3>入力メッセージ</h3>
+        <p>その時点での温湿度センサーの状態を出力します。</p>
+    <h3>出力メッセージ</h3>
+    <dl class="message-properties">
+        <dt>payload.temperature <span class="property-type">数値</span></dt>
+        <dd>温度（℃）</dd>
+        <dt>payload.humidity <span class="property-type">数値</span></dt>
+        <dd>湿度（％）</dd>
+        <dt>payload.heatIndex <span class="property-type">数値</span></dt>
+        <dd>熱指数</dd>
+    </dl>
+
+    <h3>詳細説明</h3>
+    <p>GrovePiの温湿度センサーのデータを取得し、出力するノード</p>
+
+</script>

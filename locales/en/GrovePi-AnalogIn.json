@@ -1,0 +1,16 @@
+{
+    "editor": {
+        "grovepi": "GrovePi board",
+        "din": "Grove connection connector number",
+        "paletteLabel": "GrovePi Analog input",
+        "cycle": "Read cycle",
+        "name": "Node name",
+        "sec": "second"
+    },
+    "runtime": {
+        "value": "Value",
+        "waiting": "on standby",
+        "sent": "transmission",
+        "error": "GrovePi not found"
+    }
+}

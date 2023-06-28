@@ -1,0 +1,9 @@
+{
+    "editor": {
+        "grovepi": "Grove-Piボード",
+        "din": "Grove接続コネクタ番号",
+        "paletteLabel": "GrovePi-ブザー",
+        "run_time": "継続時間",
+        "name": "ノード名称"
+    }
+}

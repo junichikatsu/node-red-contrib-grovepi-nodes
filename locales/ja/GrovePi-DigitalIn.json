@@ -1,0 +1,14 @@
+{
+    "editor": {
+        "grovepi": "Grove-Piボード",
+        "din": "Grove接続コネクタ番号",
+        "paletteLabel": "GrovePiデジタル入力",
+        "name": "ノード名称"
+    },
+    "runtime": {
+        "value": "ボタン値",
+        "waiting": "待機中",
+        "sent": "データ送出",
+        "error": "GrovePiが見つかりません"
+    }
+}

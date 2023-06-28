@@ -1,0 +1,15 @@
+{
+    "editor": {
+        "grovepi": "Grove-Piボード",
+        "paletteLabel": "GrovePi３軸デジタル加速度センサー",
+        "cycle": "センサ周期",
+        "name": "ノード名称",
+        "sec": "秒"
+    },
+    "runtime": {
+        "value": "ボタン値",
+        "waiting": "待機中",
+        "sent": "データ送出",
+        "error": "GrovePiが見つかりません"
+    }
+}

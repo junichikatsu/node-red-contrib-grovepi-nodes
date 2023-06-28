@@ -1,0 +1,16 @@
+{
+    "editor": {
+        "grovepi": "GrovePi board",
+        "din": "Grove connection connector number",
+        "paletteLabel": "Grove - Temperature&Humidity Sensor",
+        "cycle": "Sensor period",
+        "name": "Node name",
+        "sec": "second"
+    },
+    "runtime": {
+        "value": "Value",
+        "waiting": "on standby",
+        "sent": "transmission",
+        "error": "GrovePi not found"
+    }
+}

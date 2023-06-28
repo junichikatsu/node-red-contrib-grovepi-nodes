@@ -1,0 +1,9 @@
+{
+    "editor": {
+        "grovepi": "GrovePi board",
+        "din": "Grove connection connector number",
+        "paletteLabel": "Grove - Buzzer",
+        "run_time": "Duration",
+        "name": "Node name"
+    }
+}
